@@ -3,6 +3,8 @@ import bodyParser from 'body-parser';
 
 import userRoutes from './routes/users.js';
 
+
+
 const app = express()
 const PORT = 3000;
 
